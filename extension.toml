@@ -4,7 +4,7 @@ description = "SysML v2 and KerML support, powered by the OpenSysML language ser
 version = "0.1.0"
 schema_version = 1
 authors = ["Haru Kim <haruleekim@icloud.com>"]
-repository = "https://github.com/haruleekim/zed-opensysml"
+repository = "https://github.com/haruleekim/opensysml-zed"
 
 [grammars.sysml]
 repository = "https://github.com/Open-MBEE/tree-sitter-sysml"
